@@ -1,0 +1,9 @@
+C:\Users\gabri\Abyss\Programming\tdd-kata\StringCalculator\bin\Debug\netstandard2.0\StringCalculator.deps.json
+C:\Users\gabri\Abyss\Programming\tdd-kata\StringCalculator\bin\Debug\netstandard2.0\StringCalculator.dll
+C:\Users\gabri\Abyss\Programming\tdd-kata\StringCalculator\bin\Debug\netstandard2.0\StringCalculator.pdb
+C:\Users\gabri\Abyss\Programming\tdd-kata\StringCalculator\obj\Debug\netstandard2.0\StringCalculator.csprojAssemblyReference.cache
+C:\Users\gabri\Abyss\Programming\tdd-kata\StringCalculator\obj\Debug\netstandard2.0\StringCalculator.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Abyss\Programming\tdd-kata\StringCalculator\obj\Debug\netstandard2.0\StringCalculator.AssemblyInfoInputs.cache
+C:\Users\gabri\Abyss\Programming\tdd-kata\StringCalculator\obj\Debug\netstandard2.0\StringCalculator.AssemblyInfo.cs
+C:\Users\gabri\Abyss\Programming\tdd-kata\StringCalculator\obj\Debug\netstandard2.0\StringCalculator.dll
+C:\Users\gabri\Abyss\Programming\tdd-kata\StringCalculator\obj\Debug\netstandard2.0\StringCalculator.pdb
